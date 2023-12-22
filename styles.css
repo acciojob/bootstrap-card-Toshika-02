@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+ body {
+      background-color: #f8f9fa; /* Set your desired background color */
+    }
+
+    .card {
+      margin-bottom: 20px;
+    }
